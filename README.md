@@ -6,5 +6,5 @@ Para ejecutar el sistema, debes poner:
 
 ```npm install react```
 
-Sitema de Registro 2
+Sitema de Registro 2 modifiacion marco flores
 # one
